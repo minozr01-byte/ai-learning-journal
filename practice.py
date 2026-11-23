@@ -1,4 +1,5 @@
-price =float(input("Please enter production price:"))
-quantity=int(input("please enter production quantity:"))
-total=price*quantity
-print(f"total price is ${total}")
+price=12.5
+quantity = 80
+total = price * quantity
+print (total)
+
